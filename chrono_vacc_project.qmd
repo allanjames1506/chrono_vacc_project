@@ -1,5 +1,7 @@
 ---
 title: "Chronovaccination: the competitive edge in vaccine effectiveness?"
+bibliography: chrono_vacc_project.bib
+csl: nature.csl
 format: 
   html:
     toc: true
@@ -14,6 +16,8 @@ editor: visual
 ---
 
 ## Quarto
+
+blah blah blah [@RN277] and blah blah blah [@RN504]
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
